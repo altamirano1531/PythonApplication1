@@ -8,7 +8,7 @@ y = x + 5
 
 print(y)
 
-Student_name = "Sheila"
+Student_name = "Sheilas"
 print(Student_name[0])
 print(Student_name[1])
 print(Student_name[2])
