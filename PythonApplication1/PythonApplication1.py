@@ -19,6 +19,6 @@ print(Student_name[1:])
 
 print(a[5:])
 
-word="Isaac"
+word="Isaacs"
 for x in word:
     print(x)
